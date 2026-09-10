@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import type { ReviewType } from "../type/type.ts";
 import { ReviewData } from "../data/data.ts";
 import Rating from "./Rating.tsx";
